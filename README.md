@@ -25,12 +25,16 @@ I am motivated to learn, improve my English, and grow as a developer.
 ### 💻 Featured Projects
 
 #### Fullstack Project
-- **[Notes App](https://github.com/IvanVsemDobra/09-auth)**  
+- **[Notes App](https://github.com/IvanVsemDobra/09-auth)**
+- https://09-auth-two-pearl.vercel.app
+  
   Fullstack notes application built with Next.js (App Router) and TypeScript.  
   Includes authentication and private routes.
 
 #### Backend Project
-- **[Notes API](https://github.com/IvanVsemDobra/nodejs-hw)**  
+- **[Notes API](https://github.com/IvanVsemDobra/nodejs-hw)**
+- https://nodejs-hw-4-gbzc.onrender.com
+  
   Backend REST API built with Node.js, Express, and MongoDB.  
   Includes authentication and CRUD operations.
 
